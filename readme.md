@@ -11,7 +11,7 @@ Other than making Zex, I have also made a few creation codes for you guys to use
 ╔══════════════════════ஓLinksஓ═════════════════════╗<br>
 Discord : recon#0001 <br>
 Github : github.com/reconlx <br>
-Zex : https://top.gg/bot/719405065923985408
+Zex : https://top.gg/bot/719405065923985408 <br>
 Djs Help Server : https://discord.gg/5DKgdqv <br>
 ╚═════════════════════ஓஓ๑♡๑ஓஓ════════════════════╝
 
