@@ -1,4 +1,4 @@
-[![Discord Bots](https://top.gg/api/widget/719405065923985408.svg)](https://top.gg/bot/719405065923985408) !https://cdn.discordapp.com/avatars/719405065923985408/6d128b9d625f61d8d63f7a868c30b3c3.webp](Zex Discord Bot)
+[![Discord Bots](https://top.gg/api/widget/719405065923985408.svg)](https://top.gg/bot/719405065923985408)     ![](https://i.imgur.com/0P7zL2L.png)
 <br />
 # recon, Creator of Zex Discord Bot<br>
 <br />
