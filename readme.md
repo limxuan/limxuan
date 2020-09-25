@@ -6,7 +6,8 @@
 Invite Link : https://top.gg/bot/719405065923985408 <br>
 Other than making Zex, I have also made a few creation codes for you guys to use which can be found in my repository. <br>
 <br />
-# Links <br>
+Links 
+======
 Discord : recon#0001 <br>
 Github : github.com/reconlx <br>
 Djs Help Server : https://discord.gg/5DKgdqv <br>
