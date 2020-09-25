@@ -2,8 +2,8 @@
 <br />
 # recon, Creator of Zex Discord Bot<br>
 <br />
-Hello fellow coders, I am recon and I have developent the noble bot, Zex. Zex is a all around multifunctional multipurpose bots. It has command ranging from fun activies such as trivia to vibing with music commands.<br>
-**[Click Here to Invite Zex](https://top.gg/bot/719405065923985408)**<br>
+**Hello fellow coders**,<br> I am recon and I have developent the noble bot, **Zex**. **Zex** is a all around multifunctional multipurpose bot. It has command ranging from fun activies such as trivia to vibing with music commands.<br>
+![**Click Here to Invite Zex**](https://top.gg/bot/719405065923985408)<br>
 Other than making **Zex**, I have also made a few creation codes for you guys to use. 
 <br />
 ### Links <br>
