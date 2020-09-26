@@ -1,6 +1,6 @@
 [![Discord Bots](https://top.gg/api/widget/719405065923985408.svg)](https://top.gg/bot/719405065923985408) ![](https://i.imgur.com/0P7zL2L.png) <br>
 <br />
-# recon, Creator of Zex Discord Bot<br>
+# splash, Creator of Zex Discord Bot<br>
 <br />
 👋 I am splash and I have developent the noble bot, Zex.<br>Zex is a all around multifunctional multipurpose bot. It has command ranging from fun activies such as trivia to vibing with music commands.<br>
 ╭─────────────────────────────────────────────────╮<br>
