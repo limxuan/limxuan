@@ -15,3 +15,4 @@ Zex : https://top.gg/bot/719405065923985408 <br>
 Djs Help Server : https://discord.gg/5DKgdqv <br>
 ╚═════════════════════ஓஓ๑♡๑ஓஓ════════════════════╝
 
+https://github-readme-stats.vercel.app/api?username=reconlx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
