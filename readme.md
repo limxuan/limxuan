@@ -1,8 +1,7 @@
 ![welcome](https://i.imgur.com/6XHBC84.png)<br>
 [![Discord](https://img.shields.io/discord/736484671537283082?label=Discord%20Server&style=for-the-badge)](https://discord.gg/5DKgdqv)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💎 Making youtube videos.
 - ⚡ Fun fact: I coded a discord bot. It got verified by discord.
 <br />
 
