@@ -1,3 +1,4 @@
+![welcome](https://i.imgur.com/6XHBC84.png)
 ### Hi there, I'm recon 👋
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
