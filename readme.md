@@ -1,19 +1,18 @@
+### Hi there, I'm recon 👋
 
-# recon, js coder!<br>
-<br />
-👋 I am recon and I have developent the noble bot, Zex.<br>Zex is a all around multifunctional multipurpose bot. It has command ranging from fun activies such as trivia to vibing with music commands.<br>
-╭─────────────────────────────────────────────────╮<br>
-Invite Link : https://top.gg/bot/719405065923985408 <br>
-╰─────────────────────────────────────────────────╯<br>
-Other than making Zex, I have also made a few creation codes for you guys to use which can be found in my repository. <br>
-<br />
-╔══════════════════════ஓLinksஓ═════════════════════╗<br>
-Discord : recon#0001<br>
-Github : github.com/reconlx <br>
-Zex : https://top.gg/bot/719405065923985408 <br>
-Djs Help Server : https://discord.gg/5DKgdqv <br>
-╚═════════════════════ஓஓ๑♡๑ஓஓ════════════════════╝
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[ICON NAME].svg" /> : recon#0001
 
-<img src="https://github-readme-stats.vercel.app/api?username=reconlx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[![Discord Bots](https://top.gg/api/widget/719405065923985408.svg)](https://top.gg/bot/719405065923985408) ![](https://i.imgur.com/0P7zL2L.png) <br>
-<br />
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I coded a discord bot. It got verified by discord.
+
+### Socials:
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][][<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
