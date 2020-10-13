@@ -11,8 +11,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><br />
 
 ### Jobs
-Currently coding discord bots for payments. Send me a message on discord to discuss.
-(Reputation) -> [![epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)]<br />
+Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
+(Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br />
 
 #### About my discord bot
 My discord bot's name is Zex. It has been verified by discord. Zex has commands ranging from vibing music to as serious as moderation bans.
