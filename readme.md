@@ -1,5 +1,5 @@
 ![welcome](https://i.imgur.com/6XHBC84.png)<br>
-[![Discord](https://img.shields.io/discord/736484671537283082?label=Discord%20Server&style=for-the-badge)](https://discord.gg/5DKgdqv)
+[![Discord](https://img.shields.io/discord/736484671537283082?label=Discord%20Server&style=for-the-badge)](https://discord.gg/xCCpfth)
 - 🌱 I’m currently learning everything 🤣
 - 💎 Making youtube videos.
 - ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
