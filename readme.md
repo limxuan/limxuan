@@ -12,9 +12,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
-<img align="left" alt="html5" width="26px" src="https://i.imgur.com/Wq3IdD8.png" />
-<img align="left" alt="css" width="26px" src="https://i.imgur.com/dfYT6et.png" />
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> <br />
 
 ### Jobs
 Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
