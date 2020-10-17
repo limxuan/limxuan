@@ -4,7 +4,6 @@
   <a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
-[![Discord](https://img.shields.io/discord/736484671537283082?label=Discord%20Server&style=for-the-badge)](https://discord.gg/xCCpfth)
 - 🌱 I’m currently learning everything 🤣
 - 💎 Making youtube videos.
 - ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
