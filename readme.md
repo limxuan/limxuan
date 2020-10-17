@@ -1,4 +1,9 @@
-![welcome](https://i.imgur.com/6XHBC84.png)<br>
+![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/xCCpfth">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
+  </a>
 [![Discord](https://img.shields.io/discord/736484671537283082?label=Discord%20Server&style=for-the-badge)](https://discord.gg/xCCpfth)
 - 🌱 I’m currently learning everything 🤣
 - 💎 Making youtube videos.
