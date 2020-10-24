@@ -23,6 +23,8 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 #### About my discord bot
 My discord bot's name is Zex. It has been verified by discord. Zex has commands ranging from vibing music to as serious as moderation bans.
-Invite Link : https://bit.ly/zexdbl
+Invite Link : https://bit.ly/zexdbl<br>
 
-![Click Here](https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark)
+<img src='https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact' alt='My Top Languages'> <br>
+![Click Here](https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark)	
+
