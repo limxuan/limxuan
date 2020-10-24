@@ -4,6 +4,10 @@
   <a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
+  ```js
+  <Quick Introduction>
+  Hi there, I am a developer from Malaysia. Currently 15 years old (5/12/2005).
+  ```
 - 🌱 I’m currently learning everything 🤣
 - 💎 Making youtube videos.
 - ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
@@ -25,6 +29,15 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 My discord bot's name is Zex. It has been verified by discord. Zex has commands ranging from vibing music to as serious as moderation bans.
 Invite Link : https://bit.ly/zexdbl<br>
 
+
+<details>
+<summary><b>🔎 Statistics </b></summary>
+
 <img src='https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact' alt='My Top Languages'> <br>
-![Click Here](https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark)	
+![Click Here](https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark)
+
+</details>
+
+
+	
 
