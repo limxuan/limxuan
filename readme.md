@@ -38,4 +38,4 @@ Invite Link : https://bit.ly/zexdbl<br>
 
 </details>
 
-©[reconlx](https://github.com/reconlx)
+**© [reconlx](https://github.com/reconlx)**
