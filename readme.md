@@ -10,7 +10,7 @@
   ```
 - 🌱 I’m currently learning everything 🤣
 - 💎 Making youtube videos.
-- 📣 Working on [@reconlx/discord.js](https://www.npmjs.com/package/@reconlx/discord.js) api
+- 📣 Working on [reconlx](https://www.npmjs.com/package/reconlx) api
 - ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
 
 ### Languages and Tools:
