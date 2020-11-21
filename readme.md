@@ -36,9 +36,13 @@ Invite Link : https://bit.ly/zexdbl<br>
 
 <details>
 <summary><b>🔎 Statistics </b></summary>
-
-<img src='https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact' alt='My Top Languages'> <br>
-![Click Here](https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark)
+    
+<a>
+  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark" />
+</a>
 
 </details>
 
