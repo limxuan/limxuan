@@ -6,7 +6,7 @@
   </a>
   ```js
   <Quick Introduction>
-  Hi there, I am a developer from Malaysia. Currently 15 years old (5/12/2005).
+  Eyyoo! Code addict, with life lessons :).
   ```
 - 🌱 I’m currently learning everything 🤣
 - 💎 Making youtube videos.
