@@ -33,6 +33,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 My discord bot's name is Zex. It has been verified by discord. Zex has commands ranging from vibing music to as serious as moderation bans.
 Invite Link : https://bit.ly/zexdbl<br>
 
+<details>
+<summary><b>📺 Latest Youtube Videos </b></summary>
+    <!-- YOUTUBE:START -->
+    <!-- YOUTUBE:END -->
+</details>
 
 <details>
 <summary><b>🔎 Statistics </b></summary>
