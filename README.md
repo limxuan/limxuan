@@ -21,7 +21,7 @@
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="jsdom" width="26px" src="https://imgur.com/znELr8P.png" /> 
-<img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" /> 
+<!-- <img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />  -->
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
@@ -29,8 +29,8 @@
 Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
 (Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
-<details>
-<summary><b>🔎 Statistics </b></summary>
+<!-- <details>
+<summary><b>🔎 Statistics </b></summary> -->
     <p align ="centre">
 <a>
   <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact" />
@@ -39,7 +39,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark" />
 </a>
   <p>
-</details>
+<!-- </details> -->
 
 ---
 
