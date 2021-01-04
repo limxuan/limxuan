@@ -35,8 +35,11 @@ Invite Link : https://bit.ly/zexdbl<br>
 
 <details>
 <summary><b>📺 Latest Youtube Videos </b></summary>
-    <!-- YOUTUBE:START -->
-    <!-- YOUTUBE:END -->
+<a>
+ <!-- YOUTUBE:START -->
+  <!-- YOUTUBE:END -->
+</a>
+   
 </details>
 
 <details>
