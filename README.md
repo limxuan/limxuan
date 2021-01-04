@@ -49,6 +49,11 @@ Invite Link : https://bit.ly/zexdbl<br>
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [#32 Invite Tracker System | discord.js TUTORIALS](https://www.youtube.com/watch?v=my2F7ntvxb0)
+- [#31 AutoRole With Database (MONGO) | discord.js tutorials](https://www.youtube.com/watch?v=Z_BWC5lUNTs)
+- [Creating a Ghost Ping Detector Bot from scratch | discord bot!](https://www.youtube.com/watch?v=fWOZ-OqImXk)
+- [rcnlx CLI for discord.js](https://www.youtube.com/watch?v=RcvTmlMgyiM)
+- [#30 Announce Command with PING CONTROL | discord.js tutorials](https://www.youtube.com/watch?v=KKbjOLTbyCo)
 <!-- YOUTUBE:END -->
 
 **© [reconlx](https://github.com/reconlx)**
