@@ -1,10 +1,8 @@
 name: Latest youtube videos
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
-  push:
-    branches: [ master ]
 jobs:
   update-readme-with-youtube:
     name: Update repo with latest videos
