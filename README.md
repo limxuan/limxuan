@@ -1,15 +1,17 @@
 ![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/xCCpfth"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
 
-  ```js
-  <Quick Introduction>
-  Eyyoo! Code addict, with life lessons :).
-  ```
+```js
+<Quick Introduction>
+Eyyoo! Code addict, with life lessons :).
+```
+
 - 🌱 I’m currently learning everything 🤣
 - 💎 Making youtube videos.
 - 📣 Projects mantained by me: [reconlx](https://www.npmjs.com/package/reconlx), [vscode-sourcebin-uploader](https://marketplace.visualstudio.com/items?itemName=LimXuan.sourcebin-uploader)
 - ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
 
 ### Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
@@ -25,12 +27,12 @@
 Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
 (Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
-
 ---
 
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Creating Couting Discord Bot ORGANISER from scratch | discord.js](https://www.youtube.com/watch?v=CuMxYQ7nczU)
 - [#32 Invite Tracker System | discord.js TUTORIALS](https://www.youtube.com/watch?v=my2F7ntvxb0)
 - [#31 AutoRole With Database (MONGO) | discord.js tutorials](https://www.youtube.com/watch?v=Z_BWC5lUNTs)
@@ -50,11 +52,14 @@ Currently coding discord bots for payments. Send me a message on discord to disc
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark" />
 </a>
 </details> -->
-  </a>
+<p align="centre">
+<a href="https://discord.gg/xCCpfth">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
+<a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
+</p>
+
 
 **© [reconlx](https://github.com/reconlx)**
