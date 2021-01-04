@@ -51,10 +51,10 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 </a>
 </details> -->
   </a>
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80" align="centre"/>
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
   <a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80" align="centre"/>
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
 
 **© [reconlx](https://github.com/reconlx)**
