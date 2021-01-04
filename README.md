@@ -32,7 +32,6 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Creating Couting Discord Bot ORGANISER from scratch | discord.js](https://www.youtube.com/watch?v=CuMxYQ7nczU)
 - [#32 Invite Tracker System | discord.js TUTORIALS](https://www.youtube.com/watch?v=my2F7ntvxb0)
 - [#31 AutoRole With Database (MONGO) | discord.js tutorials](https://www.youtube.com/watch?v=Z_BWC5lUNTs)
