@@ -25,13 +25,9 @@
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
-### Jobs
+<!-- ### Jobs
 Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
-(Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br />
-
-#### About my discord bot
-My discord bot's name is Zex. It has been verified by discord. Zex has commands ranging from vibing music to as serious as moderation bans.
-Invite Link : https://bit.ly/zexdbl<br>
+(Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
 <details>
 <summary><b>🔎 Statistics </b></summary>
