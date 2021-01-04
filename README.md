@@ -34,15 +34,6 @@ My discord bot's name is Zex. It has been verified by discord. Zex has commands 
 Invite Link : https://bit.ly/zexdbl<br>
 
 <details>
-<summary><b>📺 Latest Youtube Videos </b></summary>
-<a>
- <!-- YOUTUBE:START -->
-  <!-- YOUTUBE:END -->
-</a>
-   
-</details>
-
-<details>
 <summary><b>🔎 Statistics </b></summary>
     
 <a>
@@ -53,5 +44,11 @@ Invite Link : https://bit.ly/zexdbl<br>
 </a>
 
 </details>
+
+---
+
+### 📺 Latest Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 **© [reconlx](https://github.com/reconlx)**
