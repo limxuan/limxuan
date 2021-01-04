@@ -1,4 +1,5 @@
-![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/xCCpfth">
+![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/xCCpfth"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
+  </a>
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
   <a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
@@ -29,17 +30,6 @@
 Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
 (Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
-<!-- <details>
-<summary><b>🔎 Statistics </b></summary> -->
-    <p align ="centre">
-<a>
-  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark" />
-</a>
-  <p>
-<!-- </details> -->
 
 ---
 
@@ -55,3 +45,13 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ---
 
 **© [reconlx](https://github.com/reconlx)**
+<!-- <details>
+<summary><a align ="right">🔎 Statistics </a></summary>
+
+<a>
+  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark" />
+</a>
+</details> -->
