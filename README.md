@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#2 Work & Daily Command | economy series | discord.js tutorials](https://www.youtube.com/watch?v=fbT1PBX6h7w)
 - [#34 Set Language Command (AUTOMATIC) | NO JSON | discord.js tutorials](https://www.youtube.com/watch?v=A2OZMrwrzWM)
 - [#33 Emojify Text | TUTORIAL | discord.js](https://www.youtube.com/watch?v=fot7TgYQalM)
 - [#1 Add / Remove / Bal commands | economy  series | discord.js](https://www.youtube.com/watch?v=51RHFN9POys)
 - [Creating Counting Discord Bot ORGANISER from scratch | discord.js](https://www.youtube.com/watch?v=CuMxYQ7nczU)
-- [#32 Invite Tracker System | discord.js TUTORIALS](https://www.youtube.com/watch?v=my2F7ntvxb0)
 <!-- YOUTUBE:END -->
 
 ---
