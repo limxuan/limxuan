@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fetch Transcript (HTML FILE) 😯 | reconlx npm | discord.js tutorial!](https://www.youtube.com/watch?v=rKVX_XtZJnI)
 - [#37 Badges Command | EASY TUTORIAL | discord.js](https://www.youtube.com/watch?v=_BuGJk5uIjw)
 - [A must watch epic tutorial :O | epikmeme.exe](https://www.youtube.com/watch?v=P3PTjaQ7ebQ)
 - [#36 Finding the First Message (COMMAND) | discord.js](https://www.youtube.com/watch?v=b_eSUo2Bypg)
 - [#35 Member Join Leaderboard 😮| discord.js tutorials](https://www.youtube.com/watch?v=Ad3Lq1RAv-s)
-- [#2 Work & Daily Command | economy series | discord.js tutorials](https://www.youtube.com/watch?v=fbT1PBX6h7w)
 <!-- YOUTUBE:END -->
 
 ---
