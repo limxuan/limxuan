@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Global Chat Channel Bot, created  from scratch with discord.js](https://www.youtube.com/watch?v=cZInDpMEC8U)
 - [#40 Say Command (with embeds)| TUTORIAL | discord.js](https://www.youtube.com/watch?v=Pkm9ymKsjBo)
 - [Creating Snippets in VSCODE (!djs command)](https://www.youtube.com/watch?v=ahbjORB5lfk)
 - [#39 How to get MOBILE STATUS on a Discord Bot | TUTORIAL | discord.js](https://www.youtube.com/watch?v=5dgkPCPZKq8)
 - [Logging Command Usages | TUTORIAL |](https://www.youtube.com/watch?v=dNuT_Hv9acg)
-- [Fetch Transcript (HTML FILE) 😯 | reconlx npm | discord.js tutorial!](https://www.youtube.com/watch?v=rKVX_XtZJnI)
 <!-- YOUTUBE:END -->
 
 ---
