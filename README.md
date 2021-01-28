@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#44 Join Position Command (members) | discord.js](https://www.youtube.com/watch?v=jnJDhcwfsCs)
 - [#43 Automatic Status Change (bot's presence) | discord.js](https://www.youtube.com/watch?v=8_dAV6ufl8s)
 - [#2 Making the main bot page | website for discord bots series](https://www.youtube.com/watch?v=hft3AM3BqJY)
 - [#3 Double Or Nothing (GAME) Command | economy series | discord.js tutorials](https://www.youtube.com/watch?v=pT2P9sBLHks)
 - [#42 Discord.js Documentation Command | discord.js](https://www.youtube.com/watch?v=-9WiyGH-8s4)
-- [#1 Setting Up Express | website for discord bots series](https://www.youtube.com/watch?v=0axuF3bnuT8)
 <!-- YOUTUBE:END -->
 
 ---
