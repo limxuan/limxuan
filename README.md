@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#50 Bot Added & Removed from server LOGS | discord.js](https://www.youtube.com/watch?v=gvCEilTLsp4)
 - [#49 Rank Roles System (claim, add, remove, list) | discord.js tutorials](https://www.youtube.com/watch?v=bwjSbBPbc-w)
 - [#48 Display Roles of A Member | discord.js tutorials](https://www.youtube.com/watch?v=bfKPY9z42pk)
 - [#47 Nuke Command | discord.js tutorials](https://www.youtube.com/watch?v=n5GiGx98F-4)
 - [#46 Random User's Avatar Command | discord.js tutorials](https://www.youtube.com/watch?v=WpiwANkWPuk)
-- [#4 Hosting Website and Bot ( FREE ) | website for discord bots series](https://www.youtube.com/watch?v=c0QXjoDOJd0)
 <!-- YOUTUBE:END -->
 
 ---
