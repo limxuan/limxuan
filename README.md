@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#53 Report Bug Command | discord.js tutorials](https://www.youtube.com/watch?v=PfTDIz33JbU)
 - [#52 Display bot's top member count servers | discord.js tutorials](https://www.youtube.com/watch?v=_PObJSuxHEE)
 - [#4 Random Money Drop  Command | economy series | discord.js tutorials](https://www.youtube.com/watch?v=LBVIpYbQtEA)
 - [#51 Advanced Suggestion System (suggest, accept, deny) [NO DATABASES NEEDED] | discord.js tutorials](https://www.youtube.com/watch?v=9kNkS-Y6rds)
 - [#50 Bot Added & Removed from server LOGS | discord.js](https://www.youtube.com/watch?v=gvCEilTLsp4)
-- [#49 Rank Roles System (claim, add, remove, list) | discord.js tutorials](https://www.youtube.com/watch?v=bwjSbBPbc-w)
 <!-- YOUTUBE:END -->
 
 ---
