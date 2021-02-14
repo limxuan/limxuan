@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating a discord giveaway bot  (mongodb) | discord.js tutorials](https://www.youtube.com/watch?v=UV95W5SgeJg)
 - [#57 Afk Command  (MONGODB) EASY!  | discord.js tutorials](https://www.youtube.com/watch?v=FPVlyqJnpmk)
 - [#56 Restrict Members from joining voice channels (ANTI-VC) | discord.js tutorials](https://www.youtube.com/watch?v=lrhe98LUwIQ)
 - [#55 Create & Delete Channel Command | discord.js tutorials](https://www.youtube.com/watch?v=y3-eJLoQYPc)
 - [#54 Clear/Delete/Purge Member's Messages | discord.js tutorials](https://www.youtube.com/watch?v=WSrHrVa8Nnk)
-- [#53 Report Bug Command | discord.js tutorials](https://www.youtube.com/watch?v=PfTDIz33JbU)
 <!-- YOUTUBE:END -->
 
 ---
