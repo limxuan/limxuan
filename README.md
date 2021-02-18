@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#59 Eval Command (OWNER COMMAND) | discord.js tutorials](https://www.youtube.com/watch?v=E0I6HsdEpNI)
 - [#58 Avatar Command | discord.js tutorials](https://www.youtube.com/watch?v=vtNB0ivuge8)
 - [Create Your Own Discord Bot! - EASY (2021)](https://www.youtube.com/watch?v=NEY4wfz36Pk)
 - [#5 Leaderboard Command | economy series | discord.js tutorials](https://www.youtube.com/watch?v=NFOoUhiUrbk)
 - [Creating a discord giveaway bot  (mongodb) | discord.js tutorials](https://www.youtube.com/watch?v=UV95W5SgeJg)
-- [#57 Afk Command  (MONGODB) EASY!  | discord.js tutorials](https://www.youtube.com/watch?v=FPVlyqJnpmk)
 <!-- YOUTUBE:END -->
 
 ---
