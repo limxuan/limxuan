@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#61 Display all banned members command | discord.js tutorials](https://www.youtube.com/watch?v=EGNALCsJ1kU)
 - [#1 Command & Event Handler | discord.js typescript tutorials](https://www.youtube.com/watch?v=mUCYXZ4Gx7E)
 - [#6.1 Shop System (Setting Up) | economy series | discord.js tutorials](https://www.youtube.com/watch?v=XFICVgesX1s)
 - [#60 DM USER (Private Message) Command | discord.js](https://www.youtube.com/watch?v=OYzyB2TRm_M)
 - [#59 Eval Command (OWNER COMMAND) | discord.js tutorials](https://www.youtube.com/watch?v=E0I6HsdEpNI)
-- [#58 Avatar Command | discord.js tutorials](https://www.youtube.com/watch?v=vtNB0ivuge8)
 <!-- YOUTUBE:END -->
 
 ---
