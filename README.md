@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#65 Private Voice Channel Generator System / Join  To Create Channel | discord.js tutorials](https://www.youtube.com/watch?v=bGjy_S4584Y)
 - [#6.2 Buy Command (SHOP SYSTEM) | discord.js economy series tutorial](https://www.youtube.com/watch?v=RgmALWb5HS8)
 - [#64 Advanced Application Bot System | discord.js tutorials](https://www.youtube.com/watch?v=wi5PPdAPj1M)
 - [#63 Steal Emojis Command | discord.js tutorials](https://www.youtube.com/watch?v=Zk2a7Iy56W4)
 - [Creating an api (reverse string, alternate cases) with expressjs | TUTORIAL](https://www.youtube.com/watch?v=25_RgVDGGuE)
-- [#62 Advanced Slowmode Command | discord.js tutorials](https://www.youtube.com/watch?v=CKd_ZxaB_-Y)
 <!-- YOUTUBE:END -->
 
 ---
