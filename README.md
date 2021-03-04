@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#69 Lockdown Command ( MODERATION ) | discord.js tutorials](https://www.youtube.com/watch?v=nrrPf7Bc3Mc)
 - [#68 Image Manipulation Commands ( CANVACORD ) | discord.js tutorials](https://www.youtube.com/watch?v=TtqZ1GrW-B8)
 - [#67 Running Terminal/Shell in discord (COMMAND) | discord.js tutorials](https://www.youtube.com/watch?v=bUYkCBEa5Qk)
 - [#66 Urban Dictionary Command | discord.js tutorials](https://www.youtube.com/watch?v=EqPNQuFojMQ)
 - [#65 Private Voice Channel Generator System / Join  To Create Channel | discord.js tutorials](https://www.youtube.com/watch?v=bGjy_S4584Y)
-- [#6.2 Buy Command (SHOP SYSTEM) | discord.js economy series tutorial](https://www.youtube.com/watch?v=RgmALWb5HS8)
 <!-- YOUTUBE:END -->
 
 ---
