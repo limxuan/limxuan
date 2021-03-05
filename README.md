@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#2 Advanced Blacklisting Words System | discord.js typescript tutorials](https://www.youtube.com/watch?v=5PHU-h7RfHs)
 - [#69 Lockdown Command ( Moderation ) | discord.js tutorials](https://www.youtube.com/watch?v=WlMhm8gE-do)
 - [#68 Image Manipulation Commands ( CANVACORD ) | discord.js tutorials](https://www.youtube.com/watch?v=TtqZ1GrW-B8)
 - [#67 Running Terminal/Shell in discord (COMMAND) | discord.js tutorials](https://www.youtube.com/watch?v=bUYkCBEa5Qk)
 - [#66 Urban Dictionary Command | discord.js tutorials](https://www.youtube.com/watch?v=EqPNQuFojMQ)
-- [#65 Private Voice Channel Generator System / Join  To Create Channel | discord.js tutorials](https://www.youtube.com/watch?v=bGjy_S4584Y)
 <!-- YOUTUBE:END -->
 
 ---
