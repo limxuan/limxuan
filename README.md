@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [reconDB (v1.3 and above) updated tutorial | reconlx packages tutorial](https://www.youtube.com/watch?v=BXGkjyG1ij4)
 - [#73 Text Art / Ascii commands (with VARIATIONS) | discord.js tutorials](https://www.youtube.com/watch?v=hYoQjLjsQKg)
 - [#72 Welcome System ( PART 2 ) - The Final Touch | discord.js tutorials](https://www.youtube.com/watch?v=1s6BXhu5p1c)
 - [#72 Welcome System ( PART 1 ) -  Setting Up Schema | discord.js tutorials](https://www.youtube.com/watch?v=jWo8oJUC6Ks)
 - [#71 Inline Replies (EASY) | discord.js tutorials](https://www.youtube.com/watch?v=4h7hew6OqT4)
-- [#70 Advanced Word Blacklist System (add, remove, display) | discord.js tutorials](https://www.youtube.com/watch?v=M7OuHKsE_EQ)
 <!-- YOUTUBE:END -->
 
 ---
