@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#76 Reaction-Roles (MULTI-GUILD  with MongoDB) | discord.js tutorial](https://www.youtube.com/watch?v=qbDcZdNZa0M)
 - [#75 Binary commands (encode, decode) [FUN COMMAND] | discord.js tutorials](https://www.youtube.com/watch?v=BjiwIwlZcyQ)
 - [#74 Birthday system (set, check) | discord.js tutorials](https://www.youtube.com/watch?v=dcmduSzHDeY)
 - [reconDB (v1.3 and above) updated tutorial | reconlx packages tutorial](https://www.youtube.com/watch?v=BXGkjyG1ij4)
 - [#73 Text Art / Ascii commands (with VARIATIONS) | discord.js tutorials](https://www.youtube.com/watch?v=hYoQjLjsQKg)
-- [#72 Welcome System ( PART 2 ) - The Final Touch | discord.js tutorials](https://www.youtube.com/watch?v=1s6BXhu5p1c)
 <!-- YOUTUBE:END -->
 
 ---
