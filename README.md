@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#7 Donate Coins (Command) | discord.js tutorials](https://www.youtube.com/watch?v=fXRSydK3wug)
 - [#77 Customising the Dynamic Help Command | discord.js tutorials](https://www.youtube.com/watch?v=-6GDefVQNgY)
 - [Free Discord Bot Hosting (TUTORIAL) - 24/7](https://www.youtube.com/watch?v=pI1ddCxyX-g)
 - [#76 Reaction-Roles (MULTI-GUILD  with MongoDB) | discord.js tutorial](https://www.youtube.com/watch?v=qbDcZdNZa0M)
 - [#75 Binary commands (encode, decode) [FUN COMMAND] | discord.js tutorials](https://www.youtube.com/watch?v=BjiwIwlZcyQ)
-- [#74 Birthday system (set, check) | discord.js tutorials](https://www.youtube.com/watch?v=dcmduSzHDeY)
 <!-- YOUTUBE:END -->
 
 ---
