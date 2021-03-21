@@ -1,6 +1,4 @@
-<div align="center">
-![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/xCCpfth"> <img src="https://invidget.switchblade.xyz/xCCpfth" align="right"/>
-<div><br/>
+![welcome](https://i.imgur.com/6XHBC84.png)<a href="https://discord.gg/xCCpfth"> <img src="https://imgur.com/VCWA5ud.gif" align="right"/>
 
 ```js
 <Quick Introduction>
