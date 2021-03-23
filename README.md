@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#83 Pull other members to your voice channel | discord.js tutorials](https://www.youtube.com/watch?v=W1XXu-ZpURg)
 - [#82 Math / Calculate Command | discord.js tutorials](https://www.youtube.com/watch?v=LnzU3sYqRaU)
 - [#81 Google Translate Command | discord.js tutorials](https://www.youtube.com/watch?v=-Db_noqEflQ)
 - [#80 Member Count Channel (MULTI-GUILD SUPPORT) | discord.js tutorials](https://www.youtube.com/watch?v=hCXqGpck1Uo)
 - [#79 AFK Command With TimeAgo feature (NO DATABASE) | discord.js tutorials](https://www.youtube.com/watch?v=3UsGXmAf8jg)
-- [#78 Advanced Server Information Command | discord.js tutorials](https://www.youtube.com/watch?v=Pi8Vefrzfmo)
 <!-- YOUTUBE:END -->
 
 ---
