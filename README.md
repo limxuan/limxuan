@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#86 Chatbot Channel with (set-channel command) | discord.js tutorial](https://www.youtube.com/watch?v=rAl5_zBM5lA)
 - [#85 Mute System, auto mute on join if muted ( mongoose ) | discord.js tutorials](https://www.youtube.com/watch?v=ijXmWchUya0)
 - [#84 Reload Commands | reload all your bot commands at once | discord.js tutorials](https://www.youtube.com/watch?v=jqNkfYpAREE)
 - [#83 Pull other members to your voice channel | discord.js tutorials](https://www.youtube.com/watch?v=W1XXu-ZpURg)
 - [#82 Math / Calculate Command | discord.js tutorials](https://www.youtube.com/watch?v=LnzU3sYqRaU)
-- [#81 Google Translate Command | discord.js tutorials](https://www.youtube.com/watch?v=-Db_noqEflQ)
 <!-- YOUTUBE:END -->
 
 ---
