@@ -32,11 +32,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#89 Anti-Join System (prevent raids) | discord.js tutorials](https://www.youtube.com/watch?v=2vA06d6SfvY)
 - [#88 Moderation with Advanced Role Positions Check (KICK, BAN, UNBAN) | discord.js tutorials](https://www.youtube.com/watch?v=mOryp00UQNo)
 - [#87 Sourcebin Code Uploader! | discord.js tutorials](https://www.youtube.com/watch?v=PeQylakbT7o)
 - [(Part 1) Setting up the project | music bot integration (discord.js)](https://www.youtube.com/watch?v=1CuyLyADqcs)
 - [How to create/publish a npm package!](https://www.youtube.com/watch?v=NlzmL6IZxXI)
-- [#86 Chatbot Channel with (set-channel command) | discord.js tutorial](https://www.youtube.com/watch?v=rAl5_zBM5lA)
 <!-- YOUTUBE:END -->
 
 ---
