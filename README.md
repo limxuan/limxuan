@@ -31,11 +31,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#92 Interactive Discord Buttons! | discord.js tutorials](https://www.youtube.com/watch?v=09AyvuAW-wU)
 - [#91 Blacklisting Servers / Guilds (with mongodb) | discord.js tutorials](https://www.youtube.com/watch?v=QjM5ebBXz7g)
 - [#90 Mod Logs System (database included) | discord.js tutorials](https://www.youtube.com/watch?v=LN1Z8joJg2w)
 - [#5 Integrating Economy System's Information | website for discord bots series](https://www.youtube.com/watch?v=evKTLgEsVOM)
 - [(Part 2) Finishing Up Events! | music bot integration (discord.js)](https://www.youtube.com/watch?v=7V_XjDhOD0g)
-- [#89 Anti-Join System (prevent raids) | discord.js tutorials](https://www.youtube.com/watch?v=2vA06d6SfvY)
 <!-- YOUTUBE:END -->
 
 ---
