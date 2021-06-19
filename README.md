@@ -31,11 +31,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Introduction to my youtube channel!](https://www.youtube.com/watch?v=svzmrgt_yHo)
 - [#96 Snipe Command with LIMITS (NO DATABASES NEEDED) | discord.js tutorials](https://www.youtube.com/watch?v=6qDxWDKuKxo)
 - [#95 Checking User's Device (web/mobile/desktop) | discord.js tutorials](https://www.youtube.com/watch?v=N507doO8O7g)
 - [#94 Premium Guild System (with EXPIRY DATE) | discord.js tutorials](https://www.youtube.com/watch?v=dTgEpP_5T3o)
 - [#93 Premium System (with MONGODB) | discord.js tutorials](https://www.youtube.com/watch?v=yemZ57qO8qk)
-- [#92 Interactive Discord Buttons! | discord.js tutorials](https://www.youtube.com/watch?v=09AyvuAW-wU)
 <!-- YOUTUBE:END -->
 
 ---
