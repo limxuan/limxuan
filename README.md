@@ -31,11 +31,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [#101 Advanced anti-invite / anti-advertising system (allow server invites) | discord.js tutorials](https://www.youtube.com/watch?v=cLBgRDNI5oY)
 - [#100 Voice Channel Activity Tracking System | discord.js tutorials](https://www.youtube.com/watch?v=88IWwGJeyo8)
 - [#1 Creating the handler | Slash Commands v13 Series](https://www.youtube.com/watch?v=o6YWbnvncQE)
 - [Things you need to know and change before updating to discord.js version 13.](https://www.youtube.com/watch?v=-Q8SCjaPiDc)
 - [#99 Server Boost Detection System | discord.js tutorials](https://www.youtube.com/watch?v=i39YkKFwhnc)
-- [#98 ALT account detection system | discord.js tutorials](https://www.youtube.com/watch?v=uwm6Bx0bYtE)
 <!-- YOUTUBE:END -->
 
 ---
