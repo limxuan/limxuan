@@ -31,11 +31,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Everything you need to know about BUTTONS! (the full guide) | discord.js v13 tutorials](https://www.youtube.com/watch?v=e3EYsrasPms)
 - [Set an "ABOUT ME" for your discord bot!](https://www.youtube.com/watch?v=CMzdE5MjY6g)
 - [Watch YouTube videos in discord voice channels! | discord.js tutorials](https://www.youtube.com/watch?v=FQYr-0TbN3A)
 - [Everything u need to know about SLASH COMMANDS! (the full guide) | discord.js v13 tutorials](https://www.youtube.com/watch?v=EN7LH89TUN4)
 - [#101 Advanced anti-invite / anti-advertising system (allow server invites) | discord.js tutorials](https://www.youtube.com/watch?v=cLBgRDNI5oY)
-- [#100 Voice Channel Activity Tracking System | discord.js tutorials](https://www.youtube.com/watch?v=88IWwGJeyo8)
 <!-- YOUTUBE:END -->
 
 ---
