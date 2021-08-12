@@ -1,7 +1,6 @@
 ![welcome](https://i.imgur.com/6XHBC84.png)
-```js
-<Quick Introduction>
-Eyyoo! Code addict, with life lessons :).
+```ts
+public person: unknown = this;
 ```
 
 - 🌱 I’m currently learning everything 🤣
