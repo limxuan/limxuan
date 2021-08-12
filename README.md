@@ -30,11 +30,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Embed Pages with BUTTONS! | discord.js tutorials](https://www.youtube.com/watch?v=f5OcnlgJjHA)
 - [Automatic Help Command with Dropdown Selections | discord.js tutorials!](https://www.youtube.com/watch?v=NfFkySxHxtg)
 - [Best and complete discord.js handler? (commands, events, slash commands)](https://www.youtube.com/watch?v=8yLIPTxrj08)
 - [Display a user's banner / banner color! | discord.js tutorials](https://www.youtube.com/watch?v=_bX02L6hZe0)
 - [Selection Panel / Dropdowns the full guide! | discord.js v13 tutorials](https://www.youtube.com/watch?v=n1hr0Idv4hQ)
-- [Everything you need to know about BUTTONS! (the full guide) | discord.js v13 tutorials](https://www.youtube.com/watch?v=e3EYsrasPms)
 <!-- YOUTUBE:END -->
 
 ---
