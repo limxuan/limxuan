@@ -2,10 +2,9 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S05TA0M)
 
 
-- 👨‍💻 Javacript/Typescript enthusiast!
-- 💎 Making youtube videos.
-- 📣 Check out my public repositories
-- 📍 Malaysia <br />
+- Javacript/Typescript enthusiast!
+- Small content creator on youtube, enjoys youtube videos.
+- Self taught programmer <br />
 
 ### Languages and Tools:
 
