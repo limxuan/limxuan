@@ -1,12 +1,11 @@
-![welcome](https://i.imgur.com/6XHBC84.png)
-```ts
-public person: unknown = this;
-```
+![welcome](https://i.imgur.com/6XHBC84.png) <br/>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S05TA0M)
 
-- 🌱 I’m currently learning everything 🤣
+
+- 👨‍💻 Javacript/Typescript enthusiast!
 - 💎 Making youtube videos.
-- 📣 Projects mantained by me: [reconlx](https://www.npmjs.com/package/reconlx), [vscode-sourcebin-uploader](https://marketplace.visualstudio.com/items?itemName=LimXuan.sourcebin-uploader)
-- ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
+- 📣 Check out my public repositories
+- 📍 Malaysia <br />
 
 ### Languages and Tools:
 
