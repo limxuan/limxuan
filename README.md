@@ -1,5 +1,5 @@
 ![welcome](https://i.imgur.com/6XHBC84.png) <br/>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reconlx/tiers)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reconlx)
 
 
 - Javacript/Typescript enthusiast!
