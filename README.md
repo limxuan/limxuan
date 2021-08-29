@@ -24,11 +24,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Connecting Discord Bot Project to MongoDB](https://www.youtube.com/watch?v=-Wf8E6RRuXA)
 - [Slash Commands Permissions Handling (AUTO) | discord.js tutorials](https://www.youtube.com/watch?v=OX_YpAgkJBE)
 - [ModMail Tutorial (customisable messages) | discord.js tutorials](https://www.youtube.com/watch?v=0hPPQ_6E8vQ)
 - [Context Menu Full Guide | discord.js tutorials](https://www.youtube.com/watch?v=3IEUDWbLQE8)
 - [Embed Pages with BUTTONS! | discord.js tutorials](https://www.youtube.com/watch?v=f5OcnlgJjHA)
-- [Automatic Help Command with Dropdown Selections | discord.js tutorials!](https://www.youtube.com/watch?v=NfFkySxHxtg)
 <!-- YOUTUBE:END -->
 
 ---
