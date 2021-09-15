@@ -24,11 +24,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Warning System (add, list, remove) | DiscordJS Version 13 Tutorials](https://www.youtube.com/watch?v=3jWcF-6_Wdo)
 - [Ban, Kick, Unban command + Role Position Checking | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=EWqfoQwJTqs)
 - [Starboard System! | DiscordJS Version 13 Tutorials](https://www.youtube.com/watch?v=cT6d7J2BUxY)
 - [Slash Command Builders | beginner friendly | discord.js v13 tutorials](https://www.youtube.com/watch?v=Ya-axT_1Z90)
 - [Connecting Discord Bot Project to MongoDB](https://www.youtube.com/watch?v=-Wf8E6RRuXA)
-- [Slash Commands Permissions Handling (AUTO) | discord.js tutorials](https://www.youtube.com/watch?v=OX_YpAgkJBE)
 <!-- YOUTUBE:END -->
 
 ---
