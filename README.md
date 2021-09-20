@@ -2,7 +2,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reconlx)
 
 
-- Javacript/Typescript enthusiast!
+- Javascript/Typescript enthusiast!
 - Small content creator on youtube, enjoys youtube videos.
 - Self taught programmer <br />
 
