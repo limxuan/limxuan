@@ -24,11 +24,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Captcha System | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=P5raycFpdcU)
 - [Song Lyrics Command | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=9wbD_IJkuAI)
 - [Custom Slash Commands System with Database | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=cH_V16fibQI)
 - [Slash Command Channel Option Type | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=IG5rTpZ7GAE)
 - [Sending Images Guide with DiscordJS V13](https://www.youtube.com/watch?v=82xCT7fC60k)
-- [Clear Messages / Purge Command | DiscordJS Version 13 Tutorials](https://www.youtube.com/watch?v=Zn9d-4yXUgw)
 <!-- YOUTUBE:END -->
 
 ---
