@@ -24,7 +24,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Music BOT & Lyrics Command | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=ftQgCXxOAs4)
+- [Music Discord Bot & Lyrics Command | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=ftQgCXxOAs4)
 - [Captcha System | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=P5raycFpdcU)
 - [Song Lyrics Command | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=9wbD_IJkuAI)
 - [Custom Slash Commands System with Database | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=cH_V16fibQI)
