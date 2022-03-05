@@ -24,11 +24,11 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Tic Tac Toe Discord Bot!](https://www.youtube.com/watch?v=vlaaPNGr7Fc)
 - [TIMEOUT Members from chatting and joining voice channels! | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=vhvZ4wbDZqM)
 - [Creating a discord bot using TYPESCRIPT &lpar;Full Guide + Complete Handler&rpar;](https://www.youtube.com/watch?v=4IxLBKPVyXE)
 - [Class  Commands, a better and structured way to create commands | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=RVdOsjXXkLY)
 - [Reaction Roles with Dropdown Select Menu &lpar;MULTIGUILD-SUPPORT&rpar; | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=4RrukRqHAUk)
-- [Music Discord Bot &amp; Lyrics Command | DiscordJS V13 Tutorials](https://www.youtube.com/watch?v=ftQgCXxOAs4)
 <!-- YOUTUBE:END -->
 
 ---
