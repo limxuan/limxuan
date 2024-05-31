@@ -5,7 +5,7 @@
 - Javascript/Typescript enthusiast!
 - Small content creator on youtube, enjoys youtube videos.
 - Self taught programmer <br />
-- Currently learning rust!
+- Currently learning golang!
 
 ### Languages and Tools:
 
